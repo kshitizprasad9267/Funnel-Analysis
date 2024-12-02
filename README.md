@@ -1,2 +1,2 @@
 # Funnel-Analysis
-A case study of a hypermarket which recently acquired home delivery system needs to be analyzed at order level, completion level, customer level and delivery level
+Generated insight on the company’s performance on the data for 2019.
